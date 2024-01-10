@@ -27,4 +27,5 @@ return {
   { import = "astrocommunity.pack.toml" },
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.pack.docker" },
+  { import = "astrocommunity.workflow.hardtime-nvim" },
 }
