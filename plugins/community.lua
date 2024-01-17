@@ -20,6 +20,7 @@ return {
   -- { import = "astrocommunity.terminal-integration/flatten-nvim" },
   -- { import = "astrocommunity.terminal-integration/vim-tmux-yank" },
   -- { import = "astrocommunity.terminal-integration/vim-tpipeline" },
+  { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.typescript-all-in-one" },
   { import = "astrocommunity.pack.lua" },
